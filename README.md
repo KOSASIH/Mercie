@@ -1,2 +1,2 @@
 # Mercie
-Coin
+Coin as Payment tools for various financial transactions
